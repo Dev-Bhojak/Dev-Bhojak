@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Bhojak
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently Building React Apps.
 - 💞️ I’m looking to collaborate on exciting projects.
 - 📫 Reach me at devbhojak1@outlook.com
 
